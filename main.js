@@ -1,7 +1,7 @@
 var family = [
   "./father.jpg",
-  "./mother.jpg",
-  "./Grandfather.jpg",
+  "./Mother.jpg",
+  "./grandfather.jpg",
   "./Grandmother.jpg",
   "./Uncle.jpg"
 ]
