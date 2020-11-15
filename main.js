@@ -1,9 +1,9 @@
 var family = [
-  "father.jpg",
-  "mother.jpg",
-  "Grandfather.jpg",
-  "Grandmother.jpg",
-  "Uncle.jpg"
+  "./father.jpg",
+  "./mother.jpg",
+  "./Grandfather.jpg",
+  "./Grandmother.jpg",
+  "./Uncle.jpg"
 ]
 
 var names = [
